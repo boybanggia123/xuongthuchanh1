@@ -1,0 +1,364 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Nghế thư giãn ",
+      "img": "ch.png"
+    },
+    {
+      "id": "2",
+      "name": "Sofa",
+      "img": "work desk.png"
+    },
+    {
+      "id": "3",
+      "name": "Nghế làm việc",
+      "img": "sf.png "
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "img": "p1.png",
+      "name": "Nghế đôi",
+      "price": 500,
+      "upcare": "04/04/202024",
+      "describe": "Mô tả sản phẩm",
+      "featured": true,
+      "status": 1,
+      "categoriesId": "1"
+    },
+    {
+      "id": "2",
+      "img": "p2.png",
+      "name": "Nghế đôi",
+      "price": 500,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 1,
+      "categoriesId": "1"
+    },
+    {
+      "id": "3",
+      "img": "p3.png",
+      "name": "Nghế có để chân",
+      "price": 600,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 1,
+      "categoriesId": "1"
+    },
+    {
+      "id": "4",
+      "img": "p4.png",
+      "name": "Nghế thường",
+      "price": 230,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 0,
+      "categoriesId": "1"
+    },
+    {
+      "id": "5",
+      "img": "p5.png",
+      "name": "Nghế sofa trắng",
+      "price": 700,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 0,
+      "categoriesId": "2"
+    },
+    {
+      "id": "6",
+      "img": "p6.png",
+      "name": "Nghế tím",
+      "price": 220,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 0,
+      "categoriesId": "2"
+    },
+    {
+      "id": "7",
+      "img": "p7.png",
+      "name": "Nghế bành",
+      "price": 210,
+      "describe": "Mô tả sản phẩm",
+      "featured": false,
+      "status": 0,
+      "categoriesId": "2"
+    },
+    {
+      "id": "8",
+      "name": "nghế 3 mốt tỷ",
+      "price": "1234",
+      "img": "p8.png",
+      "describe": "",
+      "featured": true,
+      "status": 0,
+      "categoriesId": "2"
+    },
+    {
+      "id": "9",
+      "name": "qưeqw",
+      "price": "1234",
+      "img": "p9.png",
+      "describe": "1234",
+      "featured": true,
+      "status": 1,
+      "categoriesId": "3"
+    },
+    {
+      "id": "10",
+      "name": "nghế 3 mốt tỷ",
+      "price": "45",
+      "img": "p10.png",
+      "describe": "",
+      "featured": false,
+      "status": 2,
+      "categoriesId": "3"
+    },
+    {
+      "id": "11",
+      "name": "nghế 3 hai tỷ",
+      "price": "3000",
+      "img": "p11.png",
+      "describe": "",
+      "featured": true,
+      "status": 2,
+      "categoriesId": "3"
+    },
+    {
+      "id": "12",
+      "name": "nghế 3 hai tỷ",
+      "price": "3000",
+      "img": "p12.png",
+      "describe": "",
+      "featured": false,
+      "status": 2,
+      "categoriesId": "3"
+    },
+    {
+      "name": "Nghế 2",
+      "img": "card4.png",
+      "price": 6030,
+      "description": "undefined",
+      "categoriesId": "3",
+      "id": "4a5e"
+    }
+  ],
+  "carts": [
+    {
+      "id": "9dec",
+      "username": "doanvatmq",
+      "address": "26 Trần Thị Hè,Q12",
+      "phone": "0343613424",
+      "total": 1430
+    },
+    {
+      "id": "d5e5",
+      "username": "quandeptrai",
+      "address": "krong bong",
+      "phone": "123456788",
+      "total": 1430
+    },
+    {
+      "id": "3785",
+      "username": "",
+      "address": "",
+      "phone": "",
+      "total": 2444
+    },
+    {
+      "id": "0cc9",
+      "username": "",
+      "address": "",
+      "phone": "",
+      "total": 2444
+    },
+    {
+      "id": "4ac0",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "8ee0",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "4477",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "6dc3",
+      "username": "quandeptrai",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "ba34",
+      "username": "quandeptrai",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "7847",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "84b3",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "3b11",
+      "username": "quandeptrai",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "0d92",
+      "username": "quanbui0999@gmail.com",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 2444
+    },
+    {
+      "id": "6e83",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 3174
+    },
+    {
+      "id": "3b92",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 3174
+    },
+    {
+      "id": "fbdc",
+      "username": "boy hai mái",
+      "address": "krong bong",
+      "phone": "0945631578",
+      "total": 3174
+    },
+    {
+      "id": "f63f",
+      "username": "",
+      "address": "",
+      "phone": "",
+      "total": 3174
+    },
+    {
+      "id": "c929",
+      "username": "",
+      "address": "",
+      "phone": "",
+      "total": 3174
+    },
+    {
+      "id": "430e",
+      "username": "",
+      "address": "",
+      "phone": "",
+      "total": 3174
+    },
+    {
+      "id": "70d8",
+      "username": "abc",
+      "address": "123abc",
+      "phone": "1234567890",
+      "total": 1230
+    }
+  ],
+  "cart_details": [
+    {
+      "cart_id": 1,
+      "product_id": 2,
+      "quantity": 3,
+      "price": 10,
+      "id": "a0b4"
+    },
+    {
+      "cart_id": 1,
+      "product_id": 3,
+      "quantity": 2,
+      "price": 8,
+      "id": "3d1f"
+    },
+    {
+      "id": "e65b",
+      "cart_id": "3b11",
+      "product_id": "7",
+      "price": "210",
+      "quantity": "1"
+    },
+    {
+      "id": "47c7",
+      "cart_id": "fbdc",
+      "product_id": "7",
+      "price": "210",
+      "quantity": "1"
+    },
+    {
+      "id": "8abf",
+      "cart_id": "430e",
+      "product_id": "7",
+      "price": "210",
+      "quantity": "1"
+    },
+    {
+      "id": "f5c7",
+      "cart_id": "430e",
+      "product_id": "8",
+      "price": "1234",
+      "quantity": 1
+    },
+    {
+      "id": "8b20",
+      "cart_id": "430e",
+      "product_id": "2",
+      "price": "500",
+      "quantity": 3
+    },
+    {
+      "id": "a31a",
+      "cart_id": "430e",
+      "product_id": "4",
+      "price": "230",
+      "quantity": 1
+    },
+    {
+      "id": "2025",
+      "cart_id": "70d8",
+      "product_id": "2",
+      "price": "500",
+      "quantity": 2
+    },
+    {
+      "id": "1f0e",
+      "cart_id": "70d8",
+      "product_id": "4",
+      "price": "230",
+      "quantity": 1
+    }
+  ]
+}
